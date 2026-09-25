@@ -13,7 +13,7 @@ PlantMate là ứng dụng di động kết nối cộng đồng yêu cây cản
 
 > ⚠️ Đây là bản **prototype giao diện** (UI mockup), các phản hồi AI trong ứng dụng hiện đang ở chế độ mô phỏng (simulated).
 
----
+----------------------------------------------------
 
 ## 📱 Tổng quan tính năng
 
